@@ -4,6 +4,7 @@
 #include <ctime>
 #include <array>
 
+//comment
 enum SPOT_STATE {
     EMPTY = 0,
     BLACK = 1,
